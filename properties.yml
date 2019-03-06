@@ -1,0 +1,5 @@
+APP_NAME: dev-record-pilot
+MS_NAME: record2
+BRANCH: master
+GIT_SOURCE_URL: https://github.com/himanshumps/record2.git
+SONAR_HOST_URL: http://sonar-dev-record-pilot-cicd.52.172.12.252.nip.io
